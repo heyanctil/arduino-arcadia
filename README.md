@@ -17,4 +17,4 @@ Coming soon
 
 ## Disclaimer
 
-I'm not an Arduino expert. Feel free to raise issue of pull request to improve the code and the schema.
+I'm not an Arduino expert. Feel free to raise issues or pull requests to improve this project.
